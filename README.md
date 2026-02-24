@@ -1,2 +1,2 @@
 # Car_Sales_Analysis
-Using Python+SQL+PowerBI
+Using Excel+Python+SQL+PowerBI
